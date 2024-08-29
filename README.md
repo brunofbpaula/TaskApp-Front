@@ -33,7 +33,7 @@ git clone https://github.com/brunofbpaula/TaskApp-Front.git
 <h3>Starting</h3>
 
 ```bash
-cd taskapp-frontend
+cd taskapp-front
 npm i
 npm run start
 ```
